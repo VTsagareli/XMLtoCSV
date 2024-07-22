@@ -1,0 +1,26 @@
+2024-07-22T20:13:58.897Z - Error processing XML file: Error: ENOENT: no such file or directory, open '/Users/vakho/Desktop/Developer/XMLtoCSV/test/test.xml'
+    at Object.readFileSync (node:fs:455:20)
+    at AppConfig.run (/Users/vakho/Desktop/Developer/XMLtoCSV/src/config/AppConfig.js:16:32)
+    at Context.<anonymous> (/Users/vakho/Desktop/Developer/XMLtoCSV/test/AppConfig.test.js:8:22)
+    at callFn (/Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runnable.js:366:21)
+    at Runnable.run (/Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runnable.js:354:5)
+    at Runner.runTest (/Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runner.js:678:10)
+    at /Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runner.js:801:12
+    at next (/Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runner.js:593:14)
+    at /Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runner.js:603:7
+    at next (/Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runner.js:486:14)
+    at Immediate._onImmediate (/Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runner.js:571:5)
+    at process.processImmediate (node:internal/timers:478:21)
+2024-07-22T20:14:33.263Z - Error processing XML file: Error: ENOENT: no such file or directory, open '/Users/vakho/Desktop/Developer/XMLtoCSV/test/test.xml'
+    at Object.readFileSync (node:fs:455:20)
+    at AppConfig.run (/Users/vakho/Desktop/Developer/XMLtoCSV/src/config/AppConfig.js:16:32)
+    at Context.<anonymous> (/Users/vakho/Desktop/Developer/XMLtoCSV/test/AppConfig.test.js:8:22)
+    at callFn (/Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runnable.js:366:21)
+    at Runnable.run (/Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runnable.js:354:5)
+    at Runner.runTest (/Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runner.js:678:10)
+    at /Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runner.js:801:12
+    at next (/Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runner.js:593:14)
+    at /Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runner.js:603:7
+    at next (/Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runner.js:486:14)
+    at Immediate._onImmediate (/Users/vakho/Desktop/Developer/XMLtoCSV/node_modules/mocha/lib/runner.js:571:5)
+    at process.processImmediate (node:internal/timers:478:21)
