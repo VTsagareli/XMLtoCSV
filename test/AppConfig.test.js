@@ -8,7 +8,7 @@ describe('AppConfig', function () {
         const xmlFiles = [
             path.join(__dirname, 'test.xml'),
             path.join(__dirname, 'sample1.xml'),
-            path.join(__dirname, 'sample3.xml'),
+            path.join(__dirname, 'sample2.xml'),
             path.join(__dirname, 'sample3.xml')
         ];
 
