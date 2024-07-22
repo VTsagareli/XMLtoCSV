@@ -11,7 +11,7 @@ This project is a tool to convert XML data to CSV format.
 
 ## Usage
 
-To convert an XML file to CSV, run:
+There are sample xml files in the "test" directory. To convert them to CSV formats run:
 
 ```bash
-node src/config/AppConfig.js path/to/xmlfile.xml
+npm test
